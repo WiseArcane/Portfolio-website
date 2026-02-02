@@ -1,28 +1,26 @@
 Hi there, I'm Rendil Robosa (WiseArcane) 👋
-I am a Full-Stack Developer dedicated to building powerful, clean, and efficient software. My approach blends logical rigor—honed through a deep interest in discrete mathematics and statistics—with a versatile tech stack that ranges from high-level web frameworks to low-level system languages.
-
-Currently, I'm focusing on creating seamless user experiences and robust backend architectures that don't just work, but perform at scale.
+I am a Fullstack Developer who builds clean and fast software. I like using logic and math to make sure my code works well. I focus on making apps that are easy to use and run smooth.
 
 🛠️ Tech Stack
-Languages
+Languages Python, Java, Javascript, Golang, PHP, Rust
 
-Frontend & Design
+Frontend and Design HTML, React, UI Design
 
 🚀 Featured Projects
-ClassCommand – A comprehensive management application built with React, emphasizing a "clean but powerful" UI and efficient data handling.
+ClassCommand A management app built with React. It has a clean look and handles data well.
 
-Custom GUI Tools – Developing modern desktop interfaces using Python and CustomTkinter.
+Custom GUI Tools Desktop apps made with Python and CustomTkinter that look modern.
 
-Java Utilities – A collection of practical tools including GWA calculators and logic-based applications.
+Java Utilities Practical tools like calculators and logic apps built with Java.
 
-📊 My Coding Stats
-Logic-Driven: I enjoy solving problems related to Discrete Mathematics and Set Theory.
+📊 My Skills
+Logic and Math I enjoy solving problems with discrete math and set theory.
 
-Hardware Enthusiast: My understanding of PC architecture and hardware compatibility helps me write software that respects system resources.
+PC Hardware I know how PC parts work. This helps me write software that runs better on your computer.
 
-Constant Learner: Currently diving deeper into Rust for systems-level performance and Go for scalable backends.
+Learning I am currently learning more about Rust and Go to build faster systems.
 
 📫 Connect with me
 GitHub: WiseArcane
 
-Portfolio: Currently refining my custom HTML/CSS showcase!
+Portfolio: My custom site is coming soon.
